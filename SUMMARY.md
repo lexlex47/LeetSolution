@@ -2,12 +2,12 @@
 
 * [Leetcode Ruby](README.md)
 
-## 题目类型
+## 题目答案 <a id="leet-type"></a>
 
-* [Untitled](ti-mu-lei-xing/untitled.md)
+* [Array](leet-type/array.md)
 
-## 题目答案
+## 题目答案 <a id="leet-solution"></a>
 
-* [1. Two Sum](ti-mu-da-an/1.md)
-* [7. Reverse Integer](ti-mu-da-an/7.md)
+* [1. Two Sum](leet-solution/1.md)
+* [7. Reverse Integer](leet-solution/7.md)
 
