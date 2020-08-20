@@ -8,5 +8,6 @@
 
 ## 题目答案
 
-* [Untitled](ti-mu-da-an/untitled.md)
+* [1. Two Sum](ti-mu-da-an/1.md)
+* [7. Reverse Integer](ti-mu-da-an/7.md)
 
