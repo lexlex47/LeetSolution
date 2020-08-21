@@ -10,4 +10,8 @@
 
 * [1. Two Sum](leet-solution/1.md)
 * [7. Reverse Integer](leet-solution/7.md)
+* [9. Palindrome Number](leet-solution/9.md)
+* [13. Roman to Integer](leet-solution/13.md)
+* [14. Longest Common Prefix](leet-solution/14.md)
+* [20. Valid Parentheses](leet-solution/20.md)
 
