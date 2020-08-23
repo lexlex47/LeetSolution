@@ -14,4 +14,6 @@
 * [13. Roman to Integer](leet-solution/13.md)
 * [14. Longest Common Prefix](leet-solution/14.md)
 * [20. Valid Parentheses](leet-solution/20.md)
+* [21. Merge Two Sorted Lists](leet-solution/21.md)
+* [26. Remove Duplicates from Sorted Array](leet-solution/26.md)
 
