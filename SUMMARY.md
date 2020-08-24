@@ -16,4 +16,6 @@
 * [20. Valid Parentheses](leet-solution/20.md)
 * [21. Merge Two Sorted Lists](leet-solution/21.md)
 * [26. Remove Duplicates from Sorted Array](leet-solution/26.md)
+* [27. Remove Element](leet-solution/27.md)
+* [28. Implement strStr\(\)](leet-solution/28.md)
 
