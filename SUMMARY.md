@@ -18,4 +18,6 @@
 * [26. Remove Duplicates from Sorted Array](leet-solution/26.md)
 * [27. Remove Element](leet-solution/27.md)
 * [28. Implement strStr\(\)](leet-solution/28.md)
+* [35. Search Insert Position](leet-solution/35.md)
+* [38. Count and Say](leet-solution/38.md)
 
