@@ -21,5 +21,5 @@
 * [35. Search Insert Position](leet-solution/35.md)
 * [38. Count and Say](leet-solution/38.md)
 * [53. Maximum Subarray](leet-solution/53.md)
-* [58. Length of Last Word](leet-solution/58.-length-of-last-word.md)
+* [58. Length of Last Word](leet-solution/58.md)
 
