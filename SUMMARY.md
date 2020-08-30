@@ -22,5 +22,5 @@
 * [38. Count and Say](leet-solution/38.md)
 * [53. Maximum Subarray](leet-solution/53.md)
 * [58. Length of Last Word](leet-solution/58.md)
-* [66. Plus One](leet-solution/66.-plus-one.md)
+* [66. Plus One](leet-solution/66.md)
 
