@@ -23,5 +23,6 @@
 * [53. Maximum Subarray](leet-solution/53.md)
 * [58. Length of Last Word](leet-solution/58.md)
 * [66. Plus One](leet-solution/66.md)
-* [67. Add Binary](leet-solution/67.-add-binary.md)
+* [67. Add Binary](leet-solution/67.md)
+* [69. Sqrt\(x\)](leet-solution/69.-sqrt-x.md)
 
