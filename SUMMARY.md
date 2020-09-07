@@ -25,4 +25,5 @@
 * [66. Plus One](leet-solution/66.md)
 * [67. Add Binary](leet-solution/67.md)
 * [69. Sqrt\(x\)](leet-solution/69.md)
+* [70. Climbing Stairs](leet-solution/70.md)
 
