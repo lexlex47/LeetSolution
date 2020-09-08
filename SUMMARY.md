@@ -26,4 +26,5 @@
 * [67. Add Binary](leet-solution/67.md)
 * [69. Sqrt\(x\)](leet-solution/69.md)
 * [70. Climbing Stairs](leet-solution/70.md)
+* [83. Remove Duplicates from Sorted List](leet-solution/83.md)
 
