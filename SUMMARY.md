@@ -30,4 +30,5 @@
 * [88. Merge Sorted Array](leet-solution/88.md)
 * [100. Same Tree](leet-solution/100.md)
 * [101. Symmetric Tree](leet-solution/101.md)
+* [104. Maximum Depth of Binary Tree](leet-solution/104.md)
 
