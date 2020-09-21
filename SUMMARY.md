@@ -34,4 +34,5 @@
 * [121. Best Time to Buy and Sell Stock](leet-solution/121.md)
 * [122. Best Time to Buy and Sell Stock II](leet-solution/122.md)
 * [125. Valid Palindrome](leet-solution/125.md)
+* [136. Single Number](leet-solution/136.md)
 
