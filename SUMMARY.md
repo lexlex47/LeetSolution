@@ -35,6 +35,7 @@
 * [122. Best Time to Buy and Sell Stock II](leet-solution/122.md)
 * [125. Valid Palindrome](leet-solution/125.md)
 * [136. Single Number](leet-solution/136.md)
+* [141. Linked List Cycle](leet-solution/141.md)
 * [155. Min Stack](leet-solution/155.md)
 * [160. Intersection of Two Linked Lists](leet-solution/160.md)
 * [169. Majority Element](leet-solution/169.md)
