@@ -41,4 +41,5 @@
 * [169. Majority Element](leet-solution/169.md)
 * [198. House Robber](leet-solution/198.md)
 * [203. Remove Linked List Elements](leet-solution/203.md)
+* [205. Isomorphic Strings](leet-solution/205.md)
 
