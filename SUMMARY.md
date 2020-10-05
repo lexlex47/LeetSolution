@@ -39,4 +39,6 @@
 * [155. Min Stack](leet-solution/155.md)
 * [160. Intersection of Two Linked Lists](leet-solution/160.md)
 * [169. Majority Element](leet-solution/169.md)
+* [198. House Robber](leet-solution/198.md)
+* [Untitled](leet-solution/untitled.md)
 
