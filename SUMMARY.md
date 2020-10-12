@@ -43,4 +43,5 @@
 * [203. Remove Linked List Elements](leet-solution/203.md)
 * [205. Isomorphic Strings](leet-solution/205.md)
 * [206. Reverse Linked List](leet-solution/206.md)
+* [217. Contains Duplicate](leet-solution/217.md)
 
