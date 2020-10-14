@@ -48,4 +48,5 @@
 * [234. Palindrome Linked List](leet-solution/234.md)
 * [263. Ugly Number](leet-solution/263.md)
 * [283. Move Zeroes](leet-solution/283.md)
+* [292. Nim Game](leet-solution/292.md)
 
