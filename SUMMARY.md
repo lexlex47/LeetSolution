@@ -49,4 +49,5 @@
 * [263. Ugly Number](leet-solution/263.md)
 * [283. Move Zeroes](leet-solution/283.md)
 * [292. Nim Game](leet-solution/292.md)
+* [344. Reverse String](leet-solution/344.md)
 
