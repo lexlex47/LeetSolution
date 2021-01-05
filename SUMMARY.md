@@ -54,5 +54,6 @@
 
 ## C\#
 
-* [Untitled](c/untitled.md)
+* [1. Two Sum](c/untitled.md)
+* [7. Reverse Integer](c/7.-reverse-integer.md)
 
