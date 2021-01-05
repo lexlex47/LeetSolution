@@ -52,8 +52,8 @@
 * [404. Sum of Left Leaves](leet-solution-ruby/404.md)
 * [448. Find All Numbers Disappeared in an Array](leet-solution-ruby/448.md)
 
-## C\#
+## C\# <a id="leet-solution-c"></a>
 
-* [1. Two Sum](c/untitled.md)
-* [7. Reverse Integer](c/7.-reverse-integer.md)
+* [1. Two Sum](leet-solution-c/untitled.md)
+* [7. Reverse Integer](leet-solution-c/7.-reverse-integer.md)
 
