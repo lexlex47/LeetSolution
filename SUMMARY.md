@@ -54,6 +54,6 @@
 
 ## C\# <a id="leet-solution-csharp"></a>
 
-* [1. Two Sum](leet-solution-csharp/untitled.md)
+* [1. Two Sum](leet-solution-csharp/1.-two-sum.md)
 * [7. Reverse Integer](leet-solution-csharp/7.-reverse-integer.md)
 
