@@ -56,4 +56,5 @@
 
 * [1. Two Sum](leet-solution-csharp/1.-two-sum.md)
 * [7. Reverse Integer](leet-solution-csharp/7.-reverse-integer.md)
+* [9. Palindrome Number](leet-solution-csharp/9.-palindrome-number.md)
 
