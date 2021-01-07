@@ -59,4 +59,5 @@
 * [9. Palindrome Number](leet-solution-csharp/9.-palindrome-number.md)
 * [13. Roman to Integer](leet-solution-csharp/13.-roman-to-integer.md)
 * [14. Longest Common Prefix](leet-solution-csharp/14.-longest-common-prefix.md)
+* [20. Valid Parentheses](leet-solution-csharp/20.-valid-parentheses.md)
 
