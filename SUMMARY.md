@@ -62,4 +62,5 @@
 * [20. Valid Parentheses](leet-solution-csharp/20.-valid-parentheses.md)
 * [21. Merge Two Sorted Lists](leet-solution-csharp/21.-merge-two-sorted-lists.md)
 * [26. Remove Duplicates from Sorted Array](leet-solution-csharp/26.-remove-duplicates-from-sorted-array.md)
+* [27. Remove Element](leet-solution-csharp/27.-remove-element.md)
 
