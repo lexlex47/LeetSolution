@@ -66,4 +66,5 @@
 * [28. Implement strStr\(\)](leet-solution-csharp/28.-implement-strstr.md)
 * [35. Search Insert Position](leet-solution-csharp/35.-search-insert-position.md)
 * [38. Count and Say](leet-solution-csharp/38.-count-and-say.md)
+* [53. Maximum Subarray](leet-solution-csharp/53.-maximum-subarray.md)
 
