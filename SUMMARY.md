@@ -51,6 +51,7 @@
 * [387. First Unique Character in a String](leet-solution-ruby/387.md)
 * [404. Sum of Left Leaves](leet-solution-ruby/404.md)
 * [448. Find All Numbers Disappeared in an Array](leet-solution-ruby/448.md)
+* [922. Sort Array By Parity II](leet-solution-ruby/922.-sort-array-by-parity-ii.md)
 
 ## C\# <a id="leet-solution-csharp"></a>
 
