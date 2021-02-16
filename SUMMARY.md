@@ -53,6 +53,7 @@
 * [448. Find All Numbers Disappeared in an Array](leet-solution-ruby/448.md)
 * [922. Sort Array By Parity II](leet-solution-ruby/922.-sort-array-by-parity-ii.md)
 * [1051. Height Checker](leet-solution-ruby/1051.-height-checker.md)
+* [1380. Lucky Numbers in a Matrix](leet-solution-ruby/1380.-lucky-numbers-in-a-matrix.md)
 
 ## C\# <a id="leet-solution-csharp"></a>
 
