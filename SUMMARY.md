@@ -35,6 +35,7 @@
 * [155. Min Stack](leet-solution-ruby/155.md)
 * [160. Intersection of Two Linked Lists](leet-solution-ruby/160.md)
 * [169. Majority Element](leet-solution-ruby/169.md)
+* [191. Number of 1 Bits](leet-solution-ruby/191.-number-of-1-bits.md)
 * [198. House Robber](leet-solution-ruby/198.md)
 * [203. Remove Linked List Elements](leet-solution-ruby/203.md)
 * [205. Isomorphic Strings](leet-solution-ruby/205.md)
@@ -72,6 +73,7 @@
 * [38. Count and Say](leet-solution-csharp/38.-count-and-say.md)
 * [53. Maximum Subarray](leet-solution-csharp/53.-maximum-subarray.md)
 * [58. Length of Last Word](leet-solution-csharp/58.-length-of-last-word.md)
+* [191. Number of 1 Bits](leet-solution-csharp/191.-number-of-1-bits.md)
 * [231. Power of Two](leet-solution-csharp/231.-power-of-two.md)
 * [1114. Print in Order](leet-solution-csharp/1114.-print-in-order.md)
 
