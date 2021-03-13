@@ -41,6 +41,7 @@
 * [206. Reverse Linked List](leet-solution-ruby/206.md)
 * [217. Contains Duplicate](leet-solution-ruby/217.md)
 * [226. Invert Binary Tree](leet-solution-ruby/226.md)
+* [231. Power of Two](leet-solution-ruby/231.-power-of-two.md)
 * [234. Palindrome Linked List](leet-solution-ruby/234.md)
 * [263. Ugly Number](leet-solution-ruby/263.md)
 * [283. Move Zeroes](leet-solution-ruby/283.md)
@@ -71,5 +72,6 @@
 * [38. Count and Say](leet-solution-csharp/38.-count-and-say.md)
 * [53. Maximum Subarray](leet-solution-csharp/53.-maximum-subarray.md)
 * [58. Length of Last Word](leet-solution-csharp/58.-length-of-last-word.md)
+* [231. Power of Two](leet-solution-csharp/231.-power-of-two.md)
 * [1114. Print in Order](leet-solution-csharp/1114.-print-in-order.md)
 
