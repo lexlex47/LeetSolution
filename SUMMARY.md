@@ -76,5 +76,6 @@
 * [58. Length of Last Word](leet-solution-csharp/58.-length-of-last-word.md)
 * [191. Number of 1 Bits](leet-solution-csharp/191.-number-of-1-bits.md)
 * [231. Power of Two](leet-solution-csharp/231.-power-of-two.md)
+* [401. Binary Watch](leet-solution-csharp/401.-binary-watch.md)
 * [1114. Print in Order](leet-solution-csharp/1114.-print-in-order.md)
 
